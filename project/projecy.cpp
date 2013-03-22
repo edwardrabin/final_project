@@ -1,8 +1,3 @@
-
-/*Programs 1-20
-Delos Reyes, Kashmir S.
-Koch, Roi John F.*/
-
 #include "projecy.h"
 
 #define MAX	200000
