@@ -1,7 +1,3 @@
-/*Programs 1-20
-Delos Reyes, Kashmir S.
-Koch, Roi John F.*/
-
 #ifndef projecy_H
 #define projecy_H
 #include "math.h"
