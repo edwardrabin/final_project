@@ -1,7 +1,3 @@
-/*Programs 1-20
-Delos Reyes, Kashmir S.
-Koch, Roi John F.*/
-
 #include <iostream>
 #include <string>
 #include <cstdlib>
